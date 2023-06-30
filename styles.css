@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+  }
+  
+  .converter {
+    margin: 20px auto;
+    width: 400px;
+    text-align: center;
+  }
+  
+  input {
+    padding: 5px;
+    width: 150px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  p {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
